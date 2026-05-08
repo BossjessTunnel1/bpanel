@@ -2,15 +2,15 @@
 "config": {
     "maintenance": false,
     "silentCheck": true,
-    "timezone": "Asia/Kolkata",
+    "timezone": "Asia/Manila",
     "broadcastEnabled": false,
     "broadcastMessage": "🔥 New Season Update is Live! Check Telegram.",
-    "adminUrl": "https://t.me/DPMods",
-    "tgBotToken": "8186081322:csvH88KOO3ZBaMbGFB4PMTKvYobAYM",
-    "tgChatId": "-10028934579684"
+    "adminUrl": "https://t.me/prodevpntech",
+    "tgBotToken": "8781748868:AAF2k1sW9zgagJZn9LYZiMUfoCitdnU3U4E",
+    "tgChatId": "-5118476930"
   },
   "security": {
-    "packageName": "com.toshiro.plays",
+    "packageName": "com.gg.jjj",
     "killOnMismatch": true
   },
   "ui": {
@@ -37,14 +37,14 @@
     "subText": "#aaaaaa"
   },
   "social_links": {
-    "telegram": "https://t.me/DPMods",
-    "youtube": "https://youtube.com/@DPMods",
-    "instagram": "https://instagram.com/dpmods_official"
+    "telegram": "https://t.me/prodevpntech",
+    "youtube": "https://youtube.com/",
+    "instagram": "https://instagram.com/"
   },
   "promo": {
     "enabled": false,
     "text": "🛒 BUY CHEAP KEYS - 50% OFF",
-    "url": "https://t.me/DP_Seller"
+    "url": "https://t.me/prodevpntech"
   },
   "update": {
     "available": false,
